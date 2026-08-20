@@ -1,6 +1,6 @@
 # Hey, I'm Christian Assing 👋
 
-**Principal Site Reliability Engineer** at [Red Hat](https://www.redhat.com) · 🇦🇹 Austria
+**Principal Software Engineer** at [Red Hat](https://www.redhat.com) · 🇦🇹 Austria
 
 *Keeping platforms alive for 20+ years. Automate everything, trust nothing.*
 
